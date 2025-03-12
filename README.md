@@ -10,56 +10,63 @@ Time spent: **1** hour spent in total
 
 The following **required** functionality is completed:
 
-✅ User can view the current question and 4 different answers
-✅ User can view the next question after tapping an answer
-✅ User can answer at least 3 different questions
+- ✅  User can view the current question and 4 different answers
+- ✅  User can view the next question after tapping an answer
+- ✅  User can answer at least 3 different questions
 
 
 The following **optional** features are implemented:
 
-✅ User can use the vertical orientation of the app on any device
-  ✅ Implemented ScrollView for content adaptability
-  ✅ Dynamic text sizing for different screen sizes
-  ✅ Proper constraint management for all device sizes
-✅ User can track the question they are on and how many questions are left
-  ✅ Question counter shows current progress (e.g., "QUESTION: 1/3")
-  ✅ Category label indicates current topic
-✅ User can see how many questions they got correct after answering all questions
-  ✅ Shows final score with percentage
-  ✅ Displays performance-based emoji (🏆, 🌟, 👍, or 💪)
-✅ User should be able to restart the game after they've finished answering all questions
-  ✅ "Start Over" option in completion alert
-  ✅ Score resets properly on restart
+- ✅  User can use the vertical orientation of the app on any device
+    - ✅  Implemented ScrollView for content adaptability
+    - ✅  Dynamic text sizing for different screen sizes
+    - ✅  Proper constraint management for all device sizes
+- ✅  User can track the question they are on and how many questions are left
+    - ✅  Question counter shows current progress (e.g., "QUESTION: 1/3")
+    - ✅  Category label indicates current topic
+- ✅  User can see how many questions they got correct after answering all questions
+    - ✅  Shows final score with percentage
+    - ✅  Displays performance-based emoji (🏆, 🌟, 👍, or 💪)
+- ✅  User should be able to restart the game after they've finished answering all questions
+    - ✅  "Start Over" option in completion alert
+    - ✅  Score resets properly on restart
 
 The following **additional** features are implemented:
 
-✅ Professional UI/UX Design
-  ✅ Smooth fade animations between questions
-  ✅ Visual feedback for correct/incorrect answers (green/red)
-  ✅ Rounded corners and shadow effects for better depth
-  ✅ Semi-transparent white container for questions
-  ✅ Custom background color (#6DB0C9)
-✅ Accessibility Features
-  ✅ Multi-line text support for longer questions
-  ✅ Adjustable font sizes
-  ✅ Proper content scaling
-✅ Enhanced User Experience
-  ✅ Disabled buttons after selection to prevent double-taps
-  ✅ 1-second delay before next question for better UX
-  ✅ Proper keyboard handling for future text input
-  ✅ Smooth orientation changes support
+- ✅  Professional UI/UX Design
+    - ✅  Smooth fade animations between questions
+    - ✅  Visual feedback for correct/incorrect answers (green/red)
+    - ✅  Rounded corners and shadow effects for better depth
+    - ✅  Semi-transparent white container for questions
+    - ✅  Custom background color (#6DB0C9)
+- ✅  Accessibility Features
+    - ✅  Multi-line text support for longer questions
+    - ✅  Adjustable font sizes
+    - ✅  Proper content scaling
+- ✅  Enhanced User Experience
+    - ✅  Disabled buttons after selection to prevent double-taps
+    - ✅  1-second delay before next question for better UX
+    - ✅  Proper keyboard handling for future text input
+    - ✅  Smooth orientation changes support
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-
 <a href="https://www.loom.com/share/b15def881268417088b44a35c10ef6af">
       <p>Trivia SCQ ( Single Choice Question) App - Watch Video</p>
- </a>
+</a>
 <a href="https://www.loom.com/share/b15def881268417088b44a35c10ef6af">
       <img style="max-width:500px;" src="https://cdn.loom.com/sessions/thumbnails/b15def881268417088b44a35c10ef6af-ed3831d821dcc03e-full-play.gif">
 </a>
+
+## Design
+
+Check out the UI/UX design for this app in Figma:
+
+🎨 [View Trivia SCQ Design in Figma](https://www.figma.com/design/2WUgkKEOf9LDl7WSf4MG0e/Trivia-SCQ?node-id=0-1&t=ZA1HcJMY9xNzQ6Ce-1)
+
+Password to access design file: `trivia`
 
 ## Notes
 
