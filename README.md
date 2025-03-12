@@ -58,7 +58,7 @@ Here's a walkthrough of implemented user stories:
       <p>Trivia SCQ ( Single Choice Question) App - Watch Video</p>
  </a>
 <a href="https://www.loom.com/share/b15def881268417088b44a35c10ef6af">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/b15def881268417088b44a35c10ef6af-ed3831d821dcc03e-full-play.gif">
+      <img style="max-width:500px;" src="https://cdn.loom.com/sessions/thumbnails/b15def881268417088b44a35c10ef6af-ed3831d821dcc03e-full-play.gif">
 </a>
 
 ## Notes
