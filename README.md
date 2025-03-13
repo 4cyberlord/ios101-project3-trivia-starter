@@ -53,12 +53,16 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<a href="https://www.loom.com/share/b15def881268417088b44a35c10ef6af">
-      <p>Trivia SCQ ( Single Choice Question) App - Watch Video</p>
+
+<a href="https://www.loom.com/share/391512f5c9b9474c83ad47ce2d802bd7">
+      <p>
+      Xcode - Trivia — Trivia.xcodeproj - 12 March 2025 - Updated - Watch Video
+      </p>
 </a>
-<a href="https://www.loom.com/share/b15def881268417088b44a35c10ef6af">
-      <img style="max-width:500px;" src="https://cdn.loom.com/sessions/thumbnails/b15def881268417088b44a35c10ef6af-ed3831d821dcc03e-full-play.gif">
+<a href="https://www.loom.com/share/391512f5c9b9474c83ad47ce2d802bd7">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/391512f5c9b9474c83ad47ce2d802bd7-44a92770caffe3f8-full-play.gif">
 </a>
+
 
 ## Design
 

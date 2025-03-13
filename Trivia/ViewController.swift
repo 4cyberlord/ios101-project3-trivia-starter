@@ -24,30 +24,50 @@ class ViewController: UIViewController {
             category: "ENTERTAINMENT: MUSIC",
             text: "Which famous musician is known as the 'King of Pop'?",
             answers: [
+                ("Prince", false),
+                ("Justin Timberlake", false),
                 ("Michael Jackson", true),
                 ("Elvis Presley", false),
-                ("Justin Timberlake", false),
-                ("Prince", false),
             ]
         ),
         Question(
             category: "ENTERTAINMENT: MOVIES",
             text: "Which film won the Academy Award for Best Picture in 2024?",
             answers: [
-                ("Oppenheimer", true),
-                ("Barbie", false),
-                ("Poor Things", false),
                 ("Killers of the Flower Moon", false),
+                ("Oppenheimer", true),
+                ("Poor Things", false),
+                ("Barbie", false),
             ]
         ),
         Question(
             category: "SCIENCE",
             text: "What is the closest planet to the Sun?",
             answers: [
-                ("Mercury", true),
-                ("Venus", false),
-                ("Mars", false),
                 ("Earth", false),
+                ("Venus", false),
+                ("Mercury", true),
+                ("Mars", false),
+            ]
+        ),
+        Question(
+            category: "SPORTS",
+            text: "Which country won the FIFA World Cup in 2022?",
+            answers: [
+                ("France", false),
+                ("Germany", false),
+                ("Brazil", false),
+                ("Argentina", true),
+            ]
+        ),
+        Question(
+            category: "TECHNOLOGY",
+            text: "Who is the co-founder of Apple Computer Company?",
+            answers: [
+                ("Bill Gates", false),
+                ("Steve Jobs", true),
+                ("Mark Zuckerberg", false),
+                ("Jeff Bezos", false),
             ]
         ),
     ]
